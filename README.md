@@ -1,4 +1,4 @@
-## 3D Portfolio
+# 3D Portfolio
 
 This is a 3D multi-page Portfolio from a YouTube tutorial (JavaScript Mastery) that I built to practice my ThreeJS skills. It was built with React and it was styled with TailwindCSS. It has four pages: Home, About, Projects and Contact. It's deployed on Vercel.
 
